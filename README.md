@@ -65,9 +65,12 @@ Sheep-breed-classifier/
 ├── .gitignore                             # Ignores checkpoints & model files
 └── README.md                             # This file
 
-👤 Author
-IgnisCore
-Nishuprocode
+## 👥 Contributors
 
-GitHub: @Nishuprocoder  and https://github.com/Ignis-Core
+- **IgnisCore** (@Ignis-Core)
+- **Nishuprocode** (@Nishuprocoder)
+
+## 🔗 Repository
+
+https://github.com/Ignis-Core/Sheep-breed-classifier
 
