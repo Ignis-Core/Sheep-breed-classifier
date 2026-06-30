@@ -66,6 +66,8 @@ Sheep-breed-classifier/
 └── README.md                             # This file
 
 👤 Author
-Nishuprocoder
+IgnisCore
+Nishuprocode
 
-GitHub: @Nishuprocoder
+GitHub: @Nishuprocoder  and https://github.com/Ignis-Core
+
